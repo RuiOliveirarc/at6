@@ -35,11 +35,9 @@
 
 //exercicio 4
 
-	$nota1=17;
-	$nota2=20;
-	$nota3=13;
-	$media=($nota1+$nota2+$nota3)/3;
-	echo "A média das tres notas: " .$nota1. ", " .$nota2. " e " .$nota3. " é " .$media;
+	$preco=78;
+	$iva=78*0.23+78;
+	echo "O valor de reparação com iva é " .$iva;
 
 	echo "<br>";
 	echo "<br>";
